@@ -9,7 +9,7 @@
   },
   "author": "Srinivasan",
   "license": "ISC",
-  "description": "",
+  "description": "This is a contact-management backend application",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "crypto": "^1.0.1",
